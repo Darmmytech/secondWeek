@@ -1,3 +1,3 @@
 # secondWeek
 
-i am doing the second week tasks
+tring to make a git push and pull
